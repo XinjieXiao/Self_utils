@@ -1,7 +1,7 @@
 from tqdm import tqdm
 import os
-hazy_file_road = r"F:\All_DataSet\UNREAL_NH_size_480_480\train\deep" # 被改名的文件夹
-gt_road = r"F:\All_DataSet\UNREAL_NH_size_480_480\train\gt" # 参照名字的文件夹
+hazy_file_road = r"F:\All_DataSet\NHR\ChallengeData-II-RESIDE\train\input" # 被改名的文件夹
+gt_road = r"F:\All_DataSet\NHR\ChallengeData-II-RESIDE\train\gt" # 参照名字的文件夹
 hazy_files = os.listdir(hazy_file_road)
 gt_files = os.listdir(gt_road)
 os.chdir(hazy_file_road)
