@@ -14,8 +14,8 @@ def nothing(x):
     pass
 
 
-data_base_dir = r'F:\DownLoad_Storage\NHRW_results_by_ddpm_fcb_230221_121802_gen.pth'  # 输入文件夹的路径
-outfile_dir = r'F:\DownLoad_Storage\out'  # 输出文件夹的路径
+data_base_dir = r'F:\BaiduSyncdisk\Code\Experience_Results\FCDM\NHR_results_by_ddpm_fcb_230221_121802_gen.pth+1_Gray_World'  # 输入文件夹的路径
+outfile_dir = r'F:\BaiduSyncdisk\Code\Experience_Results\FCDM\NHR_results_by_ddpm_fcb_230221_121802_gen.pth+2_Gray+Gamma'  # 输出文件夹的路径
 
 list = os.listdir(data_base_dir)
 list.sort()

@@ -2,6 +2,13 @@
 <project version="4">
   <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
+      <paths name="YunLab-FCDM">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="lianghui@172.18.122.49:22 password">
         <serverdata>
           <mappings>
@@ -94,6 +101,13 @@
         </serverdata>
       </paths>
       <paths name="root@172.26.14.20:2812 password (18)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.26.14.20:2812 password (19)">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
