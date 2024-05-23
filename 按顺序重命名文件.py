@@ -1,6 +1,6 @@
 import os
 
-path = r'F:\BaiduSyncdisk\Code\Experience_Results\C2PNet\GAPSF\Internet_night_fog'
+path = r'F:\DownLoad_Storage\UIEB'
 os.chdir(path)
 count = 1
 for i in os.listdir(path):
